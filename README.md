@@ -9,9 +9,9 @@
 
 ## НАВЫКИ 
 
-+ Программирование: Python (numpy, pandas, seaborn, matplotlib), SQL, PL/pgSQL,  
+- + Программирование: Python (numpy, pandas, seaborn, matplotlib), SQL, PL/pgSQL,  
 
-+ Автоматизация: Airflow
+- + Автоматизация: Airflow
   
 + Визуализация данных: Metabse, Redash, Power BI  
 
