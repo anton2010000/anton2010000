@@ -9,9 +9,9 @@
 
 ## НАВЫКИ 
 
-Программирование Python (numpy, pandas, seaborn, matplotlib), SQL,PL/pgSQL,  
++ Программирование Python (numpy, pandas, seaborn, matplotlib), SQL,PL/pgSQL,  
 
-Airflow  
++ Автоматизация Airflow  
 Визуализация данных Metabse, Redash, Power BI  
 
 Математическая статистика A/B тесты  
