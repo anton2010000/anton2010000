@@ -9,7 +9,7 @@
 
 ## НАВЫКИ 
 
-+ Программирование Python (numpy, pandas, seaborn, matplotlib), SQL,PL/pgSQL,  
++ Программирование Python (numpy, pandas, seaborn, matplotlib), SQL, PL/pgSQL,  
 
 + Автоматизация Airflow
   
@@ -19,12 +19,10 @@
 
 + Базы данных PostgreSQL (оконные функции, подзапросы, джойны)  
               НФ, Звезда, Снежинка, DataWault,  
+              Знание построения моделей данных и DWH  
+              Знаком с Greenplum и ClickHouse  
 
-Знание построения моделей данных и DWH  
-
-Знаком с Greenplum и ClickHouse  
-
-Языки Русский (Носитель), Английский (B1)  
++ Языки Русский (Носитель), Английский (B1)  
 
 ## ОБРАЗОВАНИЕ  
 
