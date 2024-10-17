@@ -7,11 +7,11 @@
 
 + Программирование: Python (numpy, pandas, seaborn, matplotlib), SQL, PL/pgSQL,  
 
-+ Автоматизация: Airflow
++ Оркестрация: Airflow
   
-+ Визуализация данных: Metabse, Redash
++ Визуализация данных: Metabse, Redash,Datalense
 
-+ Математическая статистика: A/B тесты  
++ Математическая статистика 
 
 + Базы данных: PostgreSQL (оконные функции, подзапросы, джойны)  
               Знаком с Greenplum и ClickHouse  
